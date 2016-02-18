@@ -15,15 +15,3 @@ if (isset($_GET["regId"]) && isset($_GET["message"])) {
     echo $result;
 }
 ?>
-
-		<!-- Parminder Singh
-
-		H No 1960, Sec 45(B), Burail, Near Saini Gurdwara
-
-		Chandigarh
-
-		160047
-
-		9464120510 
-
-		ballysingh07@yahoo.co.in   -->
